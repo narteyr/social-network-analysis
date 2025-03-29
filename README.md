@@ -24,5 +24,3 @@ The application supports the following commands:
 - `s <low> <high>`: List actors sorted by non-infinite separation from the current center, with separation between `<low>` and `<high>`.
 - `u <name>`: Set `<name>` as the new center of the universe.
 - `q`: Quit the application.
-
-## Sample Interactions
